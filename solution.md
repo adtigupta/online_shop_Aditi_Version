@@ -9,6 +9,15 @@ Daemonsets for this online-shop-app , hence pod is running on all 4 Nodes::
 
 ![image](https://github.com/user-attachments/assets/b9861f27-0147-41d5-bb5f-287bd99b1d7e)
 
+Problem in Statefulsets creation
+
+
+![image](https://github.com/user-attachments/assets/b6621a1c-e92b-45ab-8761-58074530b1a4)
+
+![image](https://github.com/user-attachments/assets/e166a576-0109-4879-b0f7-e2e61648ba69)
+
+
+
 
 
 
