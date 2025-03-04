@@ -1,1 +1,13 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: shopp
+  labels:
+    app.kubernetes.io/name: proxy
+spec:
+  containers:
+  - name: shopp-c1
+    image: trainwithshubham/online_shop_app
+    ports:
+    - containerPort: 5173
 
